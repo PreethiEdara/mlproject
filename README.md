@@ -1,6 +1,6 @@
 ## End to End Machine Learning Project
 This project understands how the student’s performance (test scores) is affected by other factors such as gender, ethnicity, preparation course 
-etc.
+etc.  
 **1. DATA INGESTION:**  
 Dataset from kaggle having student information like gender, race ethnicity, parental level of education, writing score, reading score etc.
 It has both categorical and numerical data.
