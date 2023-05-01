@@ -11,7 +11,8 @@ Used the regression algorithms like LinearRegression, KNeighbours Regressor, Dec
 **4. MODEL EVALUATION :**  
 Performed the model evaluation using r2_score. LinearRegression model outperformed all the other models with r2_sore of ~0.88.
 **5. MODEL DEPLOYMENT:**  
-Deployed the model into AWS elastic beanstalk
+Deployed the model into AWS elastic beanstalk  
+
 <img width="409" alt="image" src="https://user-images.githubusercontent.com/123542622/235497784-f9447377-5421-459c-843a-d5e556311a22.png">
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/123542622/235498067-dac05980-e155-4974-8d7b-123883ceb847.png">
 
