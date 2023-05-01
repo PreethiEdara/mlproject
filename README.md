@@ -2,7 +2,7 @@
 This project understands how the student’s performance (test scores) is affected by other factors such as gender, ethnicity, preparation course 
 etc.
 1. DATA INGESTION:
-Dataset- Dataset from kaggle having student information like gender, race ethnicity, parental level of education, writing score, reading score etc.
+Dataset from kaggle having student information like gender, race ethnicity, parental level of education, writing score, reading score etc.
 It has both categorical and numerical data.
 2. DATA TRANSFORMATION:
 Implemented the data transformation where we will be performing necessary tasks such as handling categorical values,handling missing values  standard scaling using pipelines and saving the pickle in the artifact folder sing libraries like OnehotEncoder, StandardScaler, ColumnTransformer.
